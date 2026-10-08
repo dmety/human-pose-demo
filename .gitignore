@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.pytest_cache/
+*.pt
+*.onnx
+img/*
+!img/.gitkeep
+output/*
+!output/.gitkeep
